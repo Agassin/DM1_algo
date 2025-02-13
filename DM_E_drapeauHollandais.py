@@ -1,4 +1,4 @@
-# Nom prenom
+# Segré Alexis
 
 from DH import*
 
